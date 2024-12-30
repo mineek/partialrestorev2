@@ -2,4 +2,6 @@ silly python script to restore app data from a list of apps instead of restoring
 
 made this in like 10 minutes for some other project, thought it could be useful for other people so here we are.
 
+i'm not responsible for any data loss whatsoever, use at your own risk.
+
 enjoy
